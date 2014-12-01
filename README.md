@@ -3,4 +3,4 @@ rookie
 
 first rookie 
 
-I like :cars:, :food:
+I like :car:, :tea:, and :pizza:.
